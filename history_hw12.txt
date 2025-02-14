@@ -1,0 +1,188 @@
+    1  ssh ec2-user@linux.itcareerhub.de
+    2  ssh ec2-user@linux.itcareerhub.de
+    3  ssh ec2-user@linux.itcareerhub.de
+    4  ssh ec2-user@linux.itcareerhub.de
+    5  export PS1='\[\033[32m\]\u@\h:\w\$ \[\033[0m\]'
+    6  source ~/.bashrc
+    7  ssh ec2-user@linux.itcareerhub.de
+    8  ssh ec2-user@linux.itcareerhub.de
+    9  ssh ec2-user@linux.itcareerhub.de
+   10  scp ec2-user@linux.itcareehub.de:/091224-ptm/Mihail/text.txt /E/Pyhon/Bash files
+   11  scp ec2-user@linux.itcareehub.de:/091224-ptm/Mihail/text.txt /E/Pyhon/Bash_files
+   12  scp ec2-user@linux.itcareerhub.de:/091224-ptm/Mihail/text.txt /E/Pyhon/Bash_files
+   13  ssh ec2-user@linux.itcareerhub.de
+   14  scp ec2-user@linux.itcareerhub.de:/091224-ptm/Mihail/text.txt /E/Pyhon/Bash_files
+   15  scp ec2-user@linux.itcareerhub.de:/opt/091224-ptm/Mihail/text.txt /E/Pyhon/Bash_files
+   16  scp ec2-user@linux.itcareerhub.de:/opt/091224-ptm/Mihail/text.txt /E/Python/Bash_files
+   17  scp ec2-user@linux.itcareerhub.de:/opt/091224-ptm/Mihail/text.txt /E/Python/
+   18  scp ec2-user@linux.itcareerhub.de:/opt/091224-ptm/Mihail/text.txt /E/Python/Bash_files/
+   19  scp ec2-user@linux.itcareerhub.de:/opt/091224-ptm/Mihail/text.txt /E/Python/Bash files/
+   20  scp ec2-user@linux.itcareerhub.de:/opt/091224-ptm/Mihail/text.txt /E/Python/Bash/
+   21  touch ~/.ssh/config
+   22  scp /E/Python/Bash/Trojan-Right-side: ec2-user@linux.itcareerhub.de:/opt/091224-ptm/VAndreev/
+   23  scp /E/Python/Bash/Trojan-Right-side.jpg: ec2-user@linux.itcareerhub.de:/opt/091224-ptm/VAndreev/
+   24  scp /E/Python/Bash/Trojan-Right-side.jpg ec2-user@linux.itcareerhub.de:/opt/091224-ptm/VAndreev/
+   25  ssh ec2-user@linux.itcareerhub.de
+   26  ssh ec2-user@linux.itcareerhub.de
+   27  scp ec2-user@linux.itcareerhub.de:/opt/091224-ptm/Mihail.process_managment C:\Users\Mihail\Desktop\Python\Linux
+   28  scp ec2-user@linux.itcareerhub.de:/opt/091224-ptm/Mihail/.process_managment C:\Users\Mihail\Desktop\Python\Linux
+   29  scp ec2-user@linux.itcareerhub.de:/opt/091224-ptm/Mihail/.process_managment C:\Users\Mihail\Desktop\Python\Linux\downloaded
+   30  scp ec2-user@linux.itcareerhub.de:/opt/091224-ptm/Mihail/.process_managment /c/Users/Mihail/Desktop/Python/Linux/downloaded
+   31  ssh ec2-user@linux.itcareerhub.de
+   32  git config --global user.name "Mihail"
+   33  git config --global user.email "kanevskymihail@gmail.com
+   34  git config --global user.email "kanevskymihail@gmail.com"
+   35  git config --global -l
+   36  git config --global user.name "Mihail"
+   37  git config --global user.email "kanevskymihail@gmail.com"
+   38  git config --global -l
+   39  git clone git@github.com:Mihail0123/git_intro.git
+   40  yes
+   41  git clone git@github.com:Mihail0123/git_intro.git
+   42  cd ..
+   43  cd /d/dir_for_bash/git_intro
+   44  ls
+   45  -ls
+   46  ls
+   47  git clone git@github.com:Mihail0123/git_intro.git
+   48  git clone git@github.com:Mihail0123/git_intro.git
+   49  ls
+   50  cd /d/dir_for_bash/git_intro
+   51  cd
+   52  mkdir >> /d/dir_for_bash/gitinit
+   53  mkdir >> /d/dir_for_bash/gitinit/
+   54  mkdir >> /d/dir_for_bash/gitinit
+   55  git init
+   56  git status
+   57  git remote -v
+   58  git branch -m main
+   59  git gui
+   60  git clone [200~
+   61  git clone git@github.com:Mihail0123/2701_practice.git
+   62  git add test.txt
+   63  cd /d/dir_for_bash/2701_practice/
+   64  echo "test" >> File.txt
+   65  ls
+   66  git remote add origin git@github.com:Mihail0123/2701_practice.git
+   67  git branc -M main
+   68  git branch -M main
+   69  git push -u origin main
+   70  git remote -v
+   71  git log
+   72  git status
+   73  git add .
+   74  git status
+   75  git commit -m "commit" 
+   76  git push -u origin main
+   77  cd /d/dir_for_bash/git_intro
+   78  git add .
+   79  git commit -m "pic added"
+   80  git remote -v
+   81  git status
+   82  pwd
+   83  git status
+   84  ды
+   85  ls
+   86  git log --oneline --name-only
+   87  git push origin main
+   88  nano
+   89  git branch -M main
+   90  git remote add origin git@github.com:Mihail0123/git-branch.git
+   91  git remote add origin git@github.com:Mihail0123/git-branch.git
+   92  git init
+   93  git status
+   94  git checkout -b gitignore
+   95  nano .gitignore
+   96  ls -la
+   97  git add .gitignore
+   98  git status
+   99  git commint -m "added .gitignore"
+  100  git commit -m "added .gitignore"
+  101  git remote add origin git@github.com:Mihail0123/git-branch.git
+  102  git push -u origin gitignore
+  103  git status
+  104  git switch main
+  105  git switch master
+  106  git checkout master
+  107  git branch
+  108  git checkout -b main
+  109  git push -u origin main
+  110  git branch -v
+  111  ls -al
+  112  cd /d/dir_for_bash/git-branch/
+  113  nano script.sh
+  114  git status
+  115  git add .
+  116  git status
+  117  git commit -m "Add script file"
+  118  git log
+  119  nano script.sh
+  120  git commit -am "Edited script"
+  121  git log --oneline
+  122  ls -al
+  123  cd /d/dir_for_bash/
+  124  ls -al
+  125  git checkout git_intro
+  126  cd /d/dir_for_bash/git_intro
+  127  cd /d/dir_for_bash/git-branch
+  128  ls -al
+  129  git checkout -b test_branch
+  130  git branch -v
+  131  git merge main
+  132  ls -al
+  133  git branch -v
+  134  git checkout -b third_branch
+  135  nano script.ssh
+  136  ls -all
+  137  nano script.sh
+  138  git merge test_branch 
+  139  git status
+  140  git add .
+  141  git status
+  142  git commit -a
+  143  ls -al
+  144  git status
+  145  git log --oneline --grap --decorate
+  146  git log --oneline --graph --decorate
+  147  git status
+  148  ls -all
+  149  git merge test_branch 
+  150  git merge main
+  151  nano script.sh
+  152  git status
+  153  git commit -am
+  154  git add .
+  155  git commit -a
+  156  git pull
+  157  git merge main
+  158  git merge test_branch 
+  159  git status
+  160  nano text.txt
+  161  git status
+  162  git add text.txt 
+  163  git commit -a
+  164  git status
+  165  git merge main
+  166  git push origin main
+  167  git push origin test_branch 
+  168  git push origin third_branch 
+  169  git merge main
+  170  git clone git@github.com:Mihail0123/hw12.git
+  171  cd hw14
+  172  cd hw12
+  173  git clone git@github.com:Mihail0123/hw12.git
+  174  ls -al
+  175  cd /d/dir_for_bash/hw12/
+  176  git checkout -b feature
+  177  echo "# hw12" > README.md
+  178  echo "*.log" >> .gitignore
+  179  git add ,
+  180  git add .
+  181  git commit -m "Added README and updated .gitigonre"
+  182  git push origin feature
+  183  git commit --amend -m "Добавлен README и обновлён .gitignore ammend"
+  184  git push origin feature --force
+  185  git checkout main
+  186  git merge feature
+  187  git push origin main
+  188  history > history_hw12.txt
